@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: backend
-      image: r123mahajan/backend:latest
+      image: trainwithyash77/new-easycurd_backend
       ports:
         - containerPort: 80
